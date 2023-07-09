@@ -23,7 +23,7 @@
 19. ([01:38:56](https://www.youtube.com/watch?v=-TkoO8Z07hI&t=5936s)) Do while loops 🔃 [✔]
 20. ([01:42:15](https://www.youtube.com/watch?v=-TkoO8Z07hI&t=6135s)) For loops 🔂 [✔]
 21. ([01:45:53](https://www.youtube.com/watch?v=-TkoO8Z07hI&t=6353s)) Break & continue 💔 [✔]
-22. ([01:47:34](https://www.youtube.com/watch?v=-TkoO8Z07hI&t=6454s)) Nested loops ➿
+22. ([01:47:34](https://www.youtube.com/watch?v=-TkoO8Z07hI&t=6454s)) Nested loops ➿[✔]
 23. ([01:51:51](https://www.youtube.com/watch?v=-TkoO8Z07hI&t=6711s)) Random number generator 🎲 [✔]
 24. ([01:55:25](https://www.youtube.com/watch?v=-TkoO8Z07hI&t=6925s)) Random event generator 🎁 [✔]
 25. ([01:59:05](https://www.youtube.com/watch?v=-TkoO8Z07hI&t=7145s)) Number guessing game ↕️ [✔]
